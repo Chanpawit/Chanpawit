@@ -8,7 +8,7 @@
 - 💬 Ask me about Python Web Scraping Using BeautifulSoup.
 - ✨ I want to be developer outside the country.
 
-## I am Thai, So If I wrong at some grammar I so sorry.😣
+I am Thai, So If I wrong at some grammar I so sorry.😣
 
 ## Contact me:
 ### Email: `chanpawit1810@gmail.com`.
