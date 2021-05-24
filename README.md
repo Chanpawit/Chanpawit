@@ -1,4 +1,4 @@
-# Hi there, I'm Ryu.
+# Hi there 👋, I'm Ryu.
 
 <!--
 **Chanpawit/Chanpawit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
