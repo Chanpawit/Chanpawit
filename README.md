@@ -7,6 +7,7 @@
 - 🤔 I’m looking for help with Python Image Processing.
 - 💬 Ask me about Python Web Scraping Using BeautifulSoup.
 - ✨ I want to be developer outside the country.
+- 🎉 I am know only 2 Programming language and script is Python and HTML
 
 I am Thai, So If I wrong at some grammar I so sorry.😣
 
