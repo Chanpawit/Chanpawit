@@ -9,8 +9,6 @@
 - ✨ I want to be developer outside the country.
 - 🎉 I know only 2 Programming language and script is Python and HTML
 
-I am Thai, So If I wrong at some grammar I so sorry.😣
-
 ## Contact me:
 ### Email: `chanpawit1810@gmail.com`.
 ### Twitter Username: `Chanpawit`.
