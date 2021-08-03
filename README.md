@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with Python Image Processing.
 - 💬 Ask me about Python Web Scraping Using BeautifulSoup.
 - ✨ I want to be developer outside the country.
-- 🎉 I know only 2 Programming language and script is Python and HTML
+- 🎉 I know only 2 Programming language and script is Python and Dart
 
 ## Contact me:
 ### Email: `chanpawit1810@gmail.com`.
