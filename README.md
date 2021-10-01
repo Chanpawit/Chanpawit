@@ -10,6 +10,6 @@
 - 🎉 I know only 2 Programming language and script is Python and Dart
 
 ## Contact me:
-### Email: `chanpawit1810@gmail.com`.
-### Twitter Username: `Chanpawit`.
-### Facebook Username: `ชาญพาวิชญ์ อารยคุณานันท์`.
+### Email: `chanpawit1810@gmail.com`
+### Twitter Username: `Chanpawit`
+### Facebook Username: `ชาญพาวิชญ์ อารยคุณานันท์`
